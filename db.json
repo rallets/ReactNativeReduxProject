@@ -1,0 +1,54 @@
+{
+  "todos": [
+    {
+      "id": "e2389dhhjmjhedshou",
+      "title": "code"
+    },
+    {
+      "id": "ggexzcxzrg3y6r",
+      "title": "eat"
+    },
+    {
+      "id": "fd89xchuerh",
+      "title": "sleep"
+    },
+    {
+      "id": "e238435439dhedshou",
+      "title": "play"
+    },
+    {
+      "title": "Cook",
+      "id": "U5VboDu"
+    },
+    {
+      "title": "awawawaaw5",
+      "id": "3WLAN76"
+    }
+  ],
+  "foods": [
+    {
+      "id": "4389fhous",
+      "name": "beef stew3"
+    },
+    {
+      "id": "re43gre",
+      "name": "spring roll"
+    },
+    {
+      "id": "54g54gr3t",
+      "name": "bbq chicken"
+    },
+    {
+      "id": "4yrt65y65ye",
+      "name": "Gelatos"
+    },
+    {
+      "name": "Pizza",
+      "id": "DhByXqW"
+    },
+    {
+      "name": "aaa2",
+      "id": "TMkqTj9"
+    }
+  ]
+}
